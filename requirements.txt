@@ -1,0 +1,5 @@
+Flask
+Flask-Cors
+moviepy
+python-dotenv
+Werkzeug
